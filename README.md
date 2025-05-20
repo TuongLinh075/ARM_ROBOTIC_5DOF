@@ -5,7 +5,9 @@ Use computer vision and AI for robotic arms to classify products.
 ## 🔧 WORK
 - ✅ Train model to detect color using YOLO — data in `TrainYolo` (Label, Train, Testing).  
 - ✅ Interface built with **Node-RED** using **HTTP protocol**.  
-- ✅ Control servos via **UART protocol**.  
+- ✅ Control servos via **UART protocol**.
+- LinkYouTube: https://www.youtube.com/watch?v=N7neMV0rJJ8
+  
 ## 📚 REFERENCE
 - NVIDIA Developer Resources:  
   https://developer.nvidia.com/embedded/downloads
